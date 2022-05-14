@@ -1,0 +1,30 @@
+*{
+    box-sizing: border-box;
+    list-style: none;
+}
+
+body{
+    margin: 0px;
+    background-color:rgb(241, 228, 200);
+
+    
+    
+}
+
+
+
+
+h2{
+    font-size: 43px;
+    font-weight: 600;
+    padding-left: 700px;
+    
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+#bttn :hover{
+    color:blue;
+}
+
+
+
